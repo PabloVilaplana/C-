@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.3\Proyecto1-Metodos\Proyecto2-Metodos\bin\Debug\net6.0\Proyecto2-Metodos.exe
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.3\Proyecto1-Metodos\Proyecto2-Metodos\bin\Debug\net6.0\Proyecto2-Metodos.deps.json
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.3\Proyecto1-Metodos\Proyecto2-Metodos\bin\Debug\net6.0\Proyecto2-Metodos.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.3\Proyecto1-Metodos\Proyecto2-Metodos\bin\Debug\net6.0\Proyecto2-Metodos.dll
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.3\Proyecto1-Metodos\Proyecto2-Metodos\bin\Debug\net6.0\Proyecto2-Metodos.pdb
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.3\Proyecto1-Metodos\Proyecto2-Metodos\obj\Debug\net6.0\Proyecto2-Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.3\Proyecto1-Metodos\Proyecto2-Metodos\obj\Debug\net6.0\Proyecto2-Metodos.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.3\Proyecto1-Metodos\Proyecto2-Metodos\obj\Debug\net6.0\Proyecto2-Metodos.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.3\Proyecto1-Metodos\Proyecto2-Metodos\obj\Debug\net6.0\Proyecto2-Metodos.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.3\Proyecto1-Metodos\Proyecto2-Metodos\obj\Debug\net6.0\Proyecto2-Metodos.dll
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.3\Proyecto1-Metodos\Proyecto2-Metodos\obj\Debug\net6.0\refint\Proyecto2-Metodos.dll
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.3\Proyecto1-Metodos\Proyecto2-Metodos\obj\Debug\net6.0\Proyecto2-Metodos.pdb
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.3\Proyecto1-Metodos\Proyecto2-Metodos\obj\Debug\net6.0\Proyecto2-Metodos.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.3\Proyecto1-Metodos\Proyecto2-Metodos\obj\Debug\net6.0\ref\Proyecto2-Metodos.dll
