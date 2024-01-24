@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto2-Describir-Ambito-Metodo\bin\Debug\net6.0\Proyecto2-Describir-Ambito-Metodo.exe
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto2-Describir-Ambito-Metodo\bin\Debug\net6.0\Proyecto2-Describir-Ambito-Metodo.deps.json
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto2-Describir-Ambito-Metodo\bin\Debug\net6.0\Proyecto2-Describir-Ambito-Metodo.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto2-Describir-Ambito-Metodo\bin\Debug\net6.0\Proyecto2-Describir-Ambito-Metodo.dll
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto2-Describir-Ambito-Metodo\bin\Debug\net6.0\Proyecto2-Describir-Ambito-Metodo.pdb
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto2-Describir-Ambito-Metodo\obj\Debug\net6.0\Proyecto2-Describir-Ambito-Metodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto2-Describir-Ambito-Metodo\obj\Debug\net6.0\Proyecto2-Describir-Ambito-Metodo.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto2-Describir-Ambito-Metodo\obj\Debug\net6.0\Proyecto2-Describir-Ambito-Metodo.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto2-Describir-Ambito-Metodo\obj\Debug\net6.0\Proyecto2-Describir-Ambito-Metodo.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto2-Describir-Ambito-Metodo\obj\Debug\net6.0\Proyecto2-Describir-Ambito-Metodo.dll
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto2-Describir-Ambito-Metodo\obj\Debug\net6.0\refint\Proyecto2-Describir-Ambito-Metodo.dll
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto2-Describir-Ambito-Metodo\obj\Debug\net6.0\Proyecto2-Describir-Ambito-Metodo.pdb
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto2-Describir-Ambito-Metodo\obj\Debug\net6.0\Proyecto2-Describir-Ambito-Metodo.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto2-Describir-Ambito-Metodo\obj\Debug\net6.0\ref\Proyecto2-Describir-Ambito-Metodo.dll

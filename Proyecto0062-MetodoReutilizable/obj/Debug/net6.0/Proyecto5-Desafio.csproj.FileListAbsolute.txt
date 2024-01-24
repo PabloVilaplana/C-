@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto5-Desafio\bin\Debug\net6.0\Proyecto5-Desafio.exe
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto5-Desafio\bin\Debug\net6.0\Proyecto5-Desafio.deps.json
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto5-Desafio\bin\Debug\net6.0\Proyecto5-Desafio.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto5-Desafio\bin\Debug\net6.0\Proyecto5-Desafio.dll
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto5-Desafio\bin\Debug\net6.0\Proyecto5-Desafio.pdb
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto5-Desafio\obj\Debug\net6.0\Proyecto5-Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto5-Desafio\obj\Debug\net6.0\Proyecto5-Desafio.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto5-Desafio\obj\Debug\net6.0\Proyecto5-Desafio.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto5-Desafio\obj\Debug\net6.0\Proyecto5-Desafio.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto5-Desafio\obj\Debug\net6.0\Proyecto5-Desafio.dll
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto5-Desafio\obj\Debug\net6.0\refint\Proyecto5-Desafio.dll
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto5-Desafio\obj\Debug\net6.0\Proyecto5-Desafio.pdb
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto5-Desafio\obj\Debug\net6.0\Proyecto5-Desafio.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto5-Desafio\obj\Debug\net6.0\ref\Proyecto5-Desafio.dll
