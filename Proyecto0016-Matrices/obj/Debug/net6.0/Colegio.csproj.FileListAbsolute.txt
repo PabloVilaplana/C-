@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Proyecto3\Proyecto3.3\Colegio\bin\Debug\net6.0\Colegio.exe
+C:\Programacion\C#\Microsoft\Proyecto3\Proyecto3.3\Colegio\bin\Debug\net6.0\Colegio.deps.json
+C:\Programacion\C#\Microsoft\Proyecto3\Proyecto3.3\Colegio\bin\Debug\net6.0\Colegio.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Proyecto3\Proyecto3.3\Colegio\bin\Debug\net6.0\Colegio.dll
+C:\Programacion\C#\Microsoft\Proyecto3\Proyecto3.3\Colegio\bin\Debug\net6.0\Colegio.pdb
+C:\Programacion\C#\Microsoft\Proyecto3\Proyecto3.3\Colegio\obj\Debug\net6.0\Colegio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Proyecto3\Proyecto3.3\Colegio\obj\Debug\net6.0\Colegio.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Proyecto3\Proyecto3.3\Colegio\obj\Debug\net6.0\Colegio.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Proyecto3\Proyecto3.3\Colegio\obj\Debug\net6.0\Colegio.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Proyecto3\Proyecto3.3\Colegio\obj\Debug\net6.0\Colegio.dll
+C:\Programacion\C#\Microsoft\Proyecto3\Proyecto3.3\Colegio\obj\Debug\net6.0\refint\Colegio.dll
+C:\Programacion\C#\Microsoft\Proyecto3\Proyecto3.3\Colegio\obj\Debug\net6.0\Colegio.pdb
+C:\Programacion\C#\Microsoft\Proyecto3\Proyecto3.3\Colegio\obj\Debug\net6.0\Colegio.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Proyecto3\Proyecto3.3\Colegio\obj\Debug\net6.0\ref\Colegio.dll
