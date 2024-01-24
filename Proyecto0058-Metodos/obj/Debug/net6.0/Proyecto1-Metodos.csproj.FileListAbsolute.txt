@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto1-Metodos\bin\Debug\net6.0\Proyecto1-Metodos.exe
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto1-Metodos\bin\Debug\net6.0\Proyecto1-Metodos.deps.json
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto1-Metodos\bin\Debug\net6.0\Proyecto1-Metodos.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto1-Metodos\bin\Debug\net6.0\Proyecto1-Metodos.dll
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto1-Metodos\bin\Debug\net6.0\Proyecto1-Metodos.pdb
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto1-Metodos\obj\Debug\net6.0\Proyecto1-Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto1-Metodos\obj\Debug\net6.0\Proyecto1-Metodos.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto1-Metodos\obj\Debug\net6.0\Proyecto1-Metodos.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto1-Metodos\obj\Debug\net6.0\Proyecto1-Metodos.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto1-Metodos\obj\Debug\net6.0\Proyecto1-Metodos.dll
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto1-Metodos\obj\Debug\net6.0\refint\Proyecto1-Metodos.dll
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto1-Metodos\obj\Debug\net6.0\Proyecto1-Metodos.pdb
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto1-Metodos\obj\Debug\net6.0\Proyecto1-Metodos.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto1-Metodos\obj\Debug\net6.0\ref\Proyecto1-Metodos.dll

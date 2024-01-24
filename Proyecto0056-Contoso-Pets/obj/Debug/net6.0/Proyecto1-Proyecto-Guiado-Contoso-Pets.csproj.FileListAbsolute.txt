@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.6\Proyecto1-Proyecto-Guiado-Contoso-Pets\bin\Debug\net6.0\Proyecto1-Proyecto-Guiado-Contoso-Pets.exe
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.6\Proyecto1-Proyecto-Guiado-Contoso-Pets\bin\Debug\net6.0\Proyecto1-Proyecto-Guiado-Contoso-Pets.deps.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.6\Proyecto1-Proyecto-Guiado-Contoso-Pets\bin\Debug\net6.0\Proyecto1-Proyecto-Guiado-Contoso-Pets.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.6\Proyecto1-Proyecto-Guiado-Contoso-Pets\bin\Debug\net6.0\Proyecto1-Proyecto-Guiado-Contoso-Pets.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.6\Proyecto1-Proyecto-Guiado-Contoso-Pets\bin\Debug\net6.0\Proyecto1-Proyecto-Guiado-Contoso-Pets.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.6\Proyecto1-Proyecto-Guiado-Contoso-Pets\obj\Debug\net6.0\Proyecto1-Proyecto-Guiado-Contoso-Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.6\Proyecto1-Proyecto-Guiado-Contoso-Pets\obj\Debug\net6.0\Proyecto1-Proyecto-Guiado-Contoso-Pets.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.6\Proyecto1-Proyecto-Guiado-Contoso-Pets\obj\Debug\net6.0\Proyecto1-Proyecto-Guiado-Contoso-Pets.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.6\Proyecto1-Proyecto-Guiado-Contoso-Pets\obj\Debug\net6.0\Proyecto1-Proyecto-Guiado-Contoso-Pets.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.6\Proyecto1-Proyecto-Guiado-Contoso-Pets\obj\Debug\net6.0\Proyecto1-Proyecto-Guiado-Contoso-Pets.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.6\Proyecto1-Proyecto-Guiado-Contoso-Pets\obj\Debug\net6.0\refint\Proyecto1-Proyecto-Guiado-Contoso-Pets.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.6\Proyecto1-Proyecto-Guiado-Contoso-Pets\obj\Debug\net6.0\Proyecto1-Proyecto-Guiado-Contoso-Pets.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.6\Proyecto1-Proyecto-Guiado-Contoso-Pets\obj\Debug\net6.0\Proyecto1-Proyecto-Guiado-Contoso-Pets.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.6\Proyecto1-Proyecto-Guiado-Contoso-Pets\obj\Debug\net6.0\ref\Proyecto1-Proyecto-Guiado-Contoso-Pets.dll

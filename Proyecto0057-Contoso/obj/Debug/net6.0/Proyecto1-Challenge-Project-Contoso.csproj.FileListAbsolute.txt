@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.7\Proyecto1-Challenge-Project-Contoso\bin\Debug\net6.0\Proyecto1-Challenge-Project-Contoso.exe
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.7\Proyecto1-Challenge-Project-Contoso\bin\Debug\net6.0\Proyecto1-Challenge-Project-Contoso.deps.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.7\Proyecto1-Challenge-Project-Contoso\bin\Debug\net6.0\Proyecto1-Challenge-Project-Contoso.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.7\Proyecto1-Challenge-Project-Contoso\bin\Debug\net6.0\Proyecto1-Challenge-Project-Contoso.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.7\Proyecto1-Challenge-Project-Contoso\bin\Debug\net6.0\Proyecto1-Challenge-Project-Contoso.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.7\Proyecto1-Challenge-Project-Contoso\obj\Debug\net6.0\Proyecto1-Challenge-Project-Contoso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.7\Proyecto1-Challenge-Project-Contoso\obj\Debug\net6.0\Proyecto1-Challenge-Project-Contoso.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.7\Proyecto1-Challenge-Project-Contoso\obj\Debug\net6.0\Proyecto1-Challenge-Project-Contoso.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.7\Proyecto1-Challenge-Project-Contoso\obj\Debug\net6.0\Proyecto1-Challenge-Project-Contoso.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.7\Proyecto1-Challenge-Project-Contoso\obj\Debug\net6.0\Proyecto1-Challenge-Project-Contoso.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.7\Proyecto1-Challenge-Project-Contoso\obj\Debug\net6.0\refint\Proyecto1-Challenge-Project-Contoso.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.7\Proyecto1-Challenge-Project-Contoso\obj\Debug\net6.0\Proyecto1-Challenge-Project-Contoso.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.7\Proyecto1-Challenge-Project-Contoso\obj\Debug\net6.0\Proyecto1-Challenge-Project-Contoso.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.7\Proyecto1-Challenge-Project-Contoso\obj\Debug\net6.0\ref\Proyecto1-Challenge-Project-Contoso.dll
