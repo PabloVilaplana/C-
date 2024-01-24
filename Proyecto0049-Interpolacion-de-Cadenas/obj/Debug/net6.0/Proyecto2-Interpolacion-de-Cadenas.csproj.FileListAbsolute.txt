@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.4\Proyecto2-Interpolacion-de-Cadenas\bin\Debug\net6.0\Proyecto2-Interpolacion-de-Cadenas.exe
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.4\Proyecto2-Interpolacion-de-Cadenas\bin\Debug\net6.0\Proyecto2-Interpolacion-de-Cadenas.deps.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.4\Proyecto2-Interpolacion-de-Cadenas\bin\Debug\net6.0\Proyecto2-Interpolacion-de-Cadenas.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.4\Proyecto2-Interpolacion-de-Cadenas\bin\Debug\net6.0\Proyecto2-Interpolacion-de-Cadenas.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.4\Proyecto2-Interpolacion-de-Cadenas\bin\Debug\net6.0\Proyecto2-Interpolacion-de-Cadenas.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.4\Proyecto2-Interpolacion-de-Cadenas\obj\Debug\net6.0\Proyecto2-Interpolacion-de-Cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.4\Proyecto2-Interpolacion-de-Cadenas\obj\Debug\net6.0\Proyecto2-Interpolacion-de-Cadenas.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.4\Proyecto2-Interpolacion-de-Cadenas\obj\Debug\net6.0\Proyecto2-Interpolacion-de-Cadenas.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.4\Proyecto2-Interpolacion-de-Cadenas\obj\Debug\net6.0\Proyecto2-Interpolacion-de-Cadenas.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.4\Proyecto2-Interpolacion-de-Cadenas\obj\Debug\net6.0\Proyecto2-Interpolacion-de-Cadenas.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.4\Proyecto2-Interpolacion-de-Cadenas\obj\Debug\net6.0\refint\Proyecto2-Interpolacion-de-Cadenas.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.4\Proyecto2-Interpolacion-de-Cadenas\obj\Debug\net6.0\Proyecto2-Interpolacion-de-Cadenas.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.4\Proyecto2-Interpolacion-de-Cadenas\obj\Debug\net6.0\Proyecto2-Interpolacion-de-Cadenas.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.4\Proyecto2-Interpolacion-de-Cadenas\obj\Debug\net6.0\ref\Proyecto2-Interpolacion-de-Cadenas.dll

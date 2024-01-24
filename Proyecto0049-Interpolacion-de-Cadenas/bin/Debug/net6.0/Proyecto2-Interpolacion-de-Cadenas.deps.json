@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Proyecto2-Interpolacion-de-Cadenas/1.0.0": {
+        "runtime": {
+          "Proyecto2-Interpolacion-de-Cadenas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto2-Interpolacion-de-Cadenas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

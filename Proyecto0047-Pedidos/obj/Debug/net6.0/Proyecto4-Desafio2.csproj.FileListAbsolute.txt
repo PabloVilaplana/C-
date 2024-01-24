@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto4-Desafio2\bin\Debug\net6.0\Proyecto4-Desafio2.exe
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto4-Desafio2\bin\Debug\net6.0\Proyecto4-Desafio2.deps.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto4-Desafio2\bin\Debug\net6.0\Proyecto4-Desafio2.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto4-Desafio2\bin\Debug\net6.0\Proyecto4-Desafio2.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto4-Desafio2\bin\Debug\net6.0\Proyecto4-Desafio2.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto4-Desafio2\obj\Debug\net6.0\Proyecto4-Desafio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto4-Desafio2\obj\Debug\net6.0\Proyecto4-Desafio2.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto4-Desafio2\obj\Debug\net6.0\Proyecto4-Desafio2.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto4-Desafio2\obj\Debug\net6.0\Proyecto4-Desafio2.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto4-Desafio2\obj\Debug\net6.0\Proyecto4-Desafio2.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto4-Desafio2\obj\Debug\net6.0\refint\Proyecto4-Desafio2.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto4-Desafio2\obj\Debug\net6.0\Proyecto4-Desafio2.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto4-Desafio2\obj\Debug\net6.0\Proyecto4-Desafio2.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto4-Desafio2\obj\Debug\net6.0\ref\Proyecto4-Desafio2.dll
