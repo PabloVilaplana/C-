@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto2-Deteccion-de-tipos-de-punto-flotante", "Proyecto2-Deteccion-de-tipos-de-punto-flotante.csproj", "{5FD6C39A-CE97-4062-92BE-8B32CDDB3582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD6C39A-CE97-4062-92BE-8B32CDDB3582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD6C39A-CE97-4062-92BE-8B32CDDB3582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD6C39A-CE97-4062-92BE-8B32CDDB3582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD6C39A-CE97-4062-92BE-8B32CDDB3582}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {636353C5-CE02-42D0-8ED6-A575F50A3DE1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto2-Deteccion-de-tipos-de-punto-flotante\bin\Debug\net6.0\Proyecto2-Deteccion-de-tipos-de-punto-flotante.exe
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto2-Deteccion-de-tipos-de-punto-flotante\bin\Debug\net6.0\Proyecto2-Deteccion-de-tipos-de-punto-flotante.deps.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto2-Deteccion-de-tipos-de-punto-flotante\bin\Debug\net6.0\Proyecto2-Deteccion-de-tipos-de-punto-flotante.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto2-Deteccion-de-tipos-de-punto-flotante\bin\Debug\net6.0\Proyecto2-Deteccion-de-tipos-de-punto-flotante.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto2-Deteccion-de-tipos-de-punto-flotante\bin\Debug\net6.0\Proyecto2-Deteccion-de-tipos-de-punto-flotante.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto2-Deteccion-de-tipos-de-punto-flotante\obj\Debug\net6.0\Proyecto2-Deteccion-de-tipos-de-punto-flotante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto2-Deteccion-de-tipos-de-punto-flotante\obj\Debug\net6.0\Proyecto2-Deteccion-de-tipos-de-punto-flotante.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto2-Deteccion-de-tipos-de-punto-flotante\obj\Debug\net6.0\Proyecto2-Deteccion-de-tipos-de-punto-flotante.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto2-Deteccion-de-tipos-de-punto-flotante\obj\Debug\net6.0\Proyecto2-Deteccion-de-tipos-de-punto-flotante.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto2-Deteccion-de-tipos-de-punto-flotante\obj\Debug\net6.0\Proyecto2-Deteccion-de-tipos-de-punto-flotante.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto2-Deteccion-de-tipos-de-punto-flotante\obj\Debug\net6.0\refint\Proyecto2-Deteccion-de-tipos-de-punto-flotante.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto2-Deteccion-de-tipos-de-punto-flotante\obj\Debug\net6.0\Proyecto2-Deteccion-de-tipos-de-punto-flotante.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto2-Deteccion-de-tipos-de-punto-flotante\obj\Debug\net6.0\Proyecto2-Deteccion-de-tipos-de-punto-flotante.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto2-Deteccion-de-tipos-de-punto-flotante\obj\Debug\net6.0\ref\Proyecto2-Deteccion-de-tipos-de-punto-flotante.dll
