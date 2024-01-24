@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto3-CrearMetodo\bin\Debug\net6.0\Proyecto3-CrearMetodo.exe
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto3-CrearMetodo\bin\Debug\net6.0\Proyecto3-CrearMetodo.deps.json
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto3-CrearMetodo\bin\Debug\net6.0\Proyecto3-CrearMetodo.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto3-CrearMetodo\bin\Debug\net6.0\Proyecto3-CrearMetodo.dll
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto3-CrearMetodo\bin\Debug\net6.0\Proyecto3-CrearMetodo.pdb
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto3-CrearMetodo\obj\Debug\net6.0\Proyecto3-CrearMetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto3-CrearMetodo\obj\Debug\net6.0\Proyecto3-CrearMetodo.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto3-CrearMetodo\obj\Debug\net6.0\Proyecto3-CrearMetodo.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto3-CrearMetodo\obj\Debug\net6.0\Proyecto3-CrearMetodo.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto3-CrearMetodo\obj\Debug\net6.0\Proyecto3-CrearMetodo.dll
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto3-CrearMetodo\obj\Debug\net6.0\refint\Proyecto3-CrearMetodo.dll
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto3-CrearMetodo\obj\Debug\net6.0\Proyecto3-CrearMetodo.pdb
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto3-CrearMetodo\obj\Debug\net6.0\Proyecto3-CrearMetodo.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.1\Proyecto3-CrearMetodo\obj\Debug\net6.0\ref\Proyecto3-CrearMetodo.dll
