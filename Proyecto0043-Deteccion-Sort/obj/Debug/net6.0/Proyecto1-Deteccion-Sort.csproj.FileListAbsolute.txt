@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto1-Deteccion-Sort\bin\Debug\net6.0\Proyecto1-Deteccion-Sort.exe
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto1-Deteccion-Sort\bin\Debug\net6.0\Proyecto1-Deteccion-Sort.deps.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto1-Deteccion-Sort\bin\Debug\net6.0\Proyecto1-Deteccion-Sort.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto1-Deteccion-Sort\bin\Debug\net6.0\Proyecto1-Deteccion-Sort.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto1-Deteccion-Sort\bin\Debug\net6.0\Proyecto1-Deteccion-Sort.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto1-Deteccion-Sort\obj\Debug\net6.0\Proyecto1-Deteccion-Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto1-Deteccion-Sort\obj\Debug\net6.0\Proyecto1-Deteccion-Sort.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto1-Deteccion-Sort\obj\Debug\net6.0\Proyecto1-Deteccion-Sort.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto1-Deteccion-Sort\obj\Debug\net6.0\Proyecto1-Deteccion-Sort.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto1-Deteccion-Sort\obj\Debug\net6.0\Proyecto1-Deteccion-Sort.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto1-Deteccion-Sort\obj\Debug\net6.0\refint\Proyecto1-Deteccion-Sort.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto1-Deteccion-Sort\obj\Debug\net6.0\Proyecto1-Deteccion-Sort.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto1-Deteccion-Sort\obj\Debug\net6.0\Proyecto1-Deteccion-Sort.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto1-Deteccion-Sort\obj\Debug\net6.0\ref\Proyecto1-Deteccion-Sort.dll
