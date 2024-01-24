@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.5\Proyecto1-Parentesis-en-Cadena\bin\Debug\net6.0\Proyecto1-Parentesis-en-Cadena.exe
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.5\Proyecto1-Parentesis-en-Cadena\bin\Debug\net6.0\Proyecto1-Parentesis-en-Cadena.deps.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.5\Proyecto1-Parentesis-en-Cadena\bin\Debug\net6.0\Proyecto1-Parentesis-en-Cadena.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.5\Proyecto1-Parentesis-en-Cadena\bin\Debug\net6.0\Proyecto1-Parentesis-en-Cadena.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.5\Proyecto1-Parentesis-en-Cadena\bin\Debug\net6.0\Proyecto1-Parentesis-en-Cadena.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.5\Proyecto1-Parentesis-en-Cadena\obj\Debug\net6.0\Proyecto1-Parentesis-en-Cadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.5\Proyecto1-Parentesis-en-Cadena\obj\Debug\net6.0\Proyecto1-Parentesis-en-Cadena.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.5\Proyecto1-Parentesis-en-Cadena\obj\Debug\net6.0\Proyecto1-Parentesis-en-Cadena.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.5\Proyecto1-Parentesis-en-Cadena\obj\Debug\net6.0\Proyecto1-Parentesis-en-Cadena.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.5\Proyecto1-Parentesis-en-Cadena\obj\Debug\net6.0\Proyecto1-Parentesis-en-Cadena.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.5\Proyecto1-Parentesis-en-Cadena\obj\Debug\net6.0\refint\Proyecto1-Parentesis-en-Cadena.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.5\Proyecto1-Parentesis-en-Cadena\obj\Debug\net6.0\Proyecto1-Parentesis-en-Cadena.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.5\Proyecto1-Parentesis-en-Cadena\obj\Debug\net6.0\Proyecto1-Parentesis-en-Cadena.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.5\Proyecto1-Parentesis-en-Cadena\obj\Debug\net6.0\ref\Proyecto1-Parentesis-en-Cadena.dll
