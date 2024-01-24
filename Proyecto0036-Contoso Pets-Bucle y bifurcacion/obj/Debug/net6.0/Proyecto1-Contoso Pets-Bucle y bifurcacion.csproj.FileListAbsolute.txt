@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Seccion3\Seccion3.7\Proyecto1-Contoso Pets-Bucle y bifurcacion\Proyecto1-Contoso Pets-Bucle y bifurcacion\bin\Debug\net6.0\Proyecto1-Contoso Pets-Bucle y bifurcacion.exe
+C:\Programacion\C#\Microsoft\Seccion3\Seccion3.7\Proyecto1-Contoso Pets-Bucle y bifurcacion\Proyecto1-Contoso Pets-Bucle y bifurcacion\bin\Debug\net6.0\Proyecto1-Contoso Pets-Bucle y bifurcacion.deps.json
+C:\Programacion\C#\Microsoft\Seccion3\Seccion3.7\Proyecto1-Contoso Pets-Bucle y bifurcacion\Proyecto1-Contoso Pets-Bucle y bifurcacion\bin\Debug\net6.0\Proyecto1-Contoso Pets-Bucle y bifurcacion.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Seccion3\Seccion3.7\Proyecto1-Contoso Pets-Bucle y bifurcacion\Proyecto1-Contoso Pets-Bucle y bifurcacion\bin\Debug\net6.0\Proyecto1-Contoso Pets-Bucle y bifurcacion.dll
+C:\Programacion\C#\Microsoft\Seccion3\Seccion3.7\Proyecto1-Contoso Pets-Bucle y bifurcacion\Proyecto1-Contoso Pets-Bucle y bifurcacion\bin\Debug\net6.0\Proyecto1-Contoso Pets-Bucle y bifurcacion.pdb
+C:\Programacion\C#\Microsoft\Seccion3\Seccion3.7\Proyecto1-Contoso Pets-Bucle y bifurcacion\Proyecto1-Contoso Pets-Bucle y bifurcacion\obj\Debug\net6.0\Proyecto1-Contoso Pets-Bucle y bifurcacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Seccion3\Seccion3.7\Proyecto1-Contoso Pets-Bucle y bifurcacion\Proyecto1-Contoso Pets-Bucle y bifurcacion\obj\Debug\net6.0\Proyecto1-Contoso Pets-Bucle y bifurcacion.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Seccion3\Seccion3.7\Proyecto1-Contoso Pets-Bucle y bifurcacion\Proyecto1-Contoso Pets-Bucle y bifurcacion\obj\Debug\net6.0\Proyecto1-Contoso Pets-Bucle y bifurcacion.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Seccion3\Seccion3.7\Proyecto1-Contoso Pets-Bucle y bifurcacion\Proyecto1-Contoso Pets-Bucle y bifurcacion\obj\Debug\net6.0\Proyecto1-Contoso Pets-Bucle y bifurcacion.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Seccion3\Seccion3.7\Proyecto1-Contoso Pets-Bucle y bifurcacion\Proyecto1-Contoso Pets-Bucle y bifurcacion\obj\Debug\net6.0\Proyecto1-Contoso Pets-Bucle y bifurcacion.dll
+C:\Programacion\C#\Microsoft\Seccion3\Seccion3.7\Proyecto1-Contoso Pets-Bucle y bifurcacion\Proyecto1-Contoso Pets-Bucle y bifurcacion\obj\Debug\net6.0\refint\Proyecto1-Contoso Pets-Bucle y bifurcacion.dll
+C:\Programacion\C#\Microsoft\Seccion3\Seccion3.7\Proyecto1-Contoso Pets-Bucle y bifurcacion\Proyecto1-Contoso Pets-Bucle y bifurcacion\obj\Debug\net6.0\Proyecto1-Contoso Pets-Bucle y bifurcacion.pdb
+C:\Programacion\C#\Microsoft\Seccion3\Seccion3.7\Proyecto1-Contoso Pets-Bucle y bifurcacion\Proyecto1-Contoso Pets-Bucle y bifurcacion\obj\Debug\net6.0\Proyecto1-Contoso Pets-Bucle y bifurcacion.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Seccion3\Seccion3.7\Proyecto1-Contoso Pets-Bucle y bifurcacion\Proyecto1-Contoso Pets-Bucle y bifurcacion\obj\Debug\net6.0\ref\Proyecto1-Contoso Pets-Bucle y bifurcacion.dll

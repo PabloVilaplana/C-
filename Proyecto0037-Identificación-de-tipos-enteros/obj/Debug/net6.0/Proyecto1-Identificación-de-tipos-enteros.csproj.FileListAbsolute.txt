@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto1-Identificación-de-tipos-enteros\bin\Debug\net6.0\Proyecto1-Identificación-de-tipos-enteros.exe
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto1-Identificación-de-tipos-enteros\bin\Debug\net6.0\Proyecto1-Identificación-de-tipos-enteros.deps.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto1-Identificación-de-tipos-enteros\bin\Debug\net6.0\Proyecto1-Identificación-de-tipos-enteros.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto1-Identificación-de-tipos-enteros\bin\Debug\net6.0\Proyecto1-Identificación-de-tipos-enteros.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto1-Identificación-de-tipos-enteros\bin\Debug\net6.0\Proyecto1-Identificación-de-tipos-enteros.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto1-Identificación-de-tipos-enteros\obj\Debug\net6.0\Proyecto1-Identificación-de-tipos-enteros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto1-Identificación-de-tipos-enteros\obj\Debug\net6.0\Proyecto1-Identificación-de-tipos-enteros.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto1-Identificación-de-tipos-enteros\obj\Debug\net6.0\Proyecto1-Identificación-de-tipos-enteros.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto1-Identificación-de-tipos-enteros\obj\Debug\net6.0\Proyecto1-Identificación-de-tipos-enteros.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto1-Identificación-de-tipos-enteros\obj\Debug\net6.0\Proyecto1-Identificación-de-tipos-enteros.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto1-Identificación-de-tipos-enteros\obj\Debug\net6.0\refint\Proyecto1-Identificación-de-tipos-enteros.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto1-Identificación-de-tipos-enteros\obj\Debug\net6.0\Proyecto1-Identificación-de-tipos-enteros.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto1-Identificación-de-tipos-enteros\obj\Debug\net6.0\Proyecto1-Identificación-de-tipos-enteros.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.1\Proyecto1-Identificación-de-tipos-enteros\obj\Debug\net6.0\ref\Proyecto1-Identificación-de-tipos-enteros.dll
