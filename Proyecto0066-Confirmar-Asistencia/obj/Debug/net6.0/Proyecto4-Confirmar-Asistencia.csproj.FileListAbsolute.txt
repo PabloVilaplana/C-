@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto4-Confirmar-Asistencia\bin\Debug\net6.0\Proyecto4-Confirmar-Asistencia.exe
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto4-Confirmar-Asistencia\bin\Debug\net6.0\Proyecto4-Confirmar-Asistencia.deps.json
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto4-Confirmar-Asistencia\bin\Debug\net6.0\Proyecto4-Confirmar-Asistencia.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto4-Confirmar-Asistencia\bin\Debug\net6.0\Proyecto4-Confirmar-Asistencia.dll
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto4-Confirmar-Asistencia\bin\Debug\net6.0\Proyecto4-Confirmar-Asistencia.pdb
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto4-Confirmar-Asistencia\obj\Debug\net6.0\Proyecto4-Confirmar-Asistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto4-Confirmar-Asistencia\obj\Debug\net6.0\Proyecto4-Confirmar-Asistencia.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto4-Confirmar-Asistencia\obj\Debug\net6.0\Proyecto4-Confirmar-Asistencia.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto4-Confirmar-Asistencia\obj\Debug\net6.0\Proyecto4-Confirmar-Asistencia.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto4-Confirmar-Asistencia\obj\Debug\net6.0\Proyecto4-Confirmar-Asistencia.dll
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto4-Confirmar-Asistencia\obj\Debug\net6.0\refint\Proyecto4-Confirmar-Asistencia.dll
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto4-Confirmar-Asistencia\obj\Debug\net6.0\Proyecto4-Confirmar-Asistencia.pdb
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto4-Confirmar-Asistencia\obj\Debug\net6.0\Proyecto4-Confirmar-Asistencia.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Seccion5\Seccion5.2\Proyecto4-Confirmar-Asistencia\obj\Debug\net6.0\ref\Proyecto4-Confirmar-Asistencia.dll
