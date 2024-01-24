@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.4\Proyecto2-Desafio\bin\Debug\net6.0\Proyecto2-Desafio.exe
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.4\Proyecto2-Desafio\bin\Debug\net6.0\Proyecto2-Desafio.deps.json
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.4\Proyecto2-Desafio\bin\Debug\net6.0\Proyecto2-Desafio.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.4\Proyecto2-Desafio\bin\Debug\net6.0\Proyecto2-Desafio.dll
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.4\Proyecto2-Desafio\bin\Debug\net6.0\Proyecto2-Desafio.pdb
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.4\Proyecto2-Desafio\obj\Debug\net6.0\Proyecto2-Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.4\Proyecto2-Desafio\obj\Debug\net6.0\Proyecto2-Desafio.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.4\Proyecto2-Desafio\obj\Debug\net6.0\Proyecto2-Desafio.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.4\Proyecto2-Desafio\obj\Debug\net6.0\Proyecto2-Desafio.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.4\Proyecto2-Desafio\obj\Debug\net6.0\Proyecto2-Desafio.dll
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.4\Proyecto2-Desafio\obj\Debug\net6.0\refint\Proyecto2-Desafio.dll
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.4\Proyecto2-Desafio\obj\Debug\net6.0\Proyecto2-Desafio.pdb
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.4\Proyecto2-Desafio\obj\Debug\net6.0\Proyecto2-Desafio.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.4\Proyecto2-Desafio\obj\Debug\net6.0\ref\Proyecto2-Desafio.dll
