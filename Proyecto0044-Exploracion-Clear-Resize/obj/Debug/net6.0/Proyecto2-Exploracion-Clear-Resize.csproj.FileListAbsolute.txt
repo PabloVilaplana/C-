@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto2-Exploracion-Clear-Resize\bin\Debug\net6.0\Proyecto2-Exploracion-Clear-Resize.exe
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto2-Exploracion-Clear-Resize\bin\Debug\net6.0\Proyecto2-Exploracion-Clear-Resize.deps.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto2-Exploracion-Clear-Resize\bin\Debug\net6.0\Proyecto2-Exploracion-Clear-Resize.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto2-Exploracion-Clear-Resize\bin\Debug\net6.0\Proyecto2-Exploracion-Clear-Resize.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto2-Exploracion-Clear-Resize\bin\Debug\net6.0\Proyecto2-Exploracion-Clear-Resize.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto2-Exploracion-Clear-Resize\obj\Debug\net6.0\Proyecto2-Exploracion-Clear-Resize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto2-Exploracion-Clear-Resize\obj\Debug\net6.0\Proyecto2-Exploracion-Clear-Resize.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto2-Exploracion-Clear-Resize\obj\Debug\net6.0\Proyecto2-Exploracion-Clear-Resize.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto2-Exploracion-Clear-Resize\obj\Debug\net6.0\Proyecto2-Exploracion-Clear-Resize.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto2-Exploracion-Clear-Resize\obj\Debug\net6.0\Proyecto2-Exploracion-Clear-Resize.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto2-Exploracion-Clear-Resize\obj\Debug\net6.0\refint\Proyecto2-Exploracion-Clear-Resize.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto2-Exploracion-Clear-Resize\obj\Debug\net6.0\Proyecto2-Exploracion-Clear-Resize.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto2-Exploracion-Clear-Resize\obj\Debug\net6.0\Proyecto2-Exploracion-Clear-Resize.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto2-Exploracion-Clear-Resize\obj\Debug\net6.0\ref\Proyecto2-Exploracion-Clear-Resize.dll

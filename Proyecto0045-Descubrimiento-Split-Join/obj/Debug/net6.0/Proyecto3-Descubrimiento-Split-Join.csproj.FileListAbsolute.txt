@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto3-Descubrimiento-Split-Join\bin\Debug\net6.0\Proyecto3-Descubrimiento-Split-Join.exe
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto3-Descubrimiento-Split-Join\bin\Debug\net6.0\Proyecto3-Descubrimiento-Split-Join.deps.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto3-Descubrimiento-Split-Join\bin\Debug\net6.0\Proyecto3-Descubrimiento-Split-Join.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto3-Descubrimiento-Split-Join\bin\Debug\net6.0\Proyecto3-Descubrimiento-Split-Join.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto3-Descubrimiento-Split-Join\bin\Debug\net6.0\Proyecto3-Descubrimiento-Split-Join.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto3-Descubrimiento-Split-Join\obj\Debug\net6.0\Proyecto3-Descubrimiento-Split-Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto3-Descubrimiento-Split-Join\obj\Debug\net6.0\Proyecto3-Descubrimiento-Split-Join.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto3-Descubrimiento-Split-Join\obj\Debug\net6.0\Proyecto3-Descubrimiento-Split-Join.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto3-Descubrimiento-Split-Join\obj\Debug\net6.0\Proyecto3-Descubrimiento-Split-Join.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto3-Descubrimiento-Split-Join\obj\Debug\net6.0\Proyecto3-Descubrimiento-Split-Join.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto3-Descubrimiento-Split-Join\obj\Debug\net6.0\refint\Proyecto3-Descubrimiento-Split-Join.dll
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto3-Descubrimiento-Split-Join\obj\Debug\net6.0\Proyecto3-Descubrimiento-Split-Join.pdb
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto3-Descubrimiento-Split-Join\obj\Debug\net6.0\Proyecto3-Descubrimiento-Split-Join.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Seccion4\Seccion4.3\Proyecto3-Descubrimiento-Split-Join\obj\Debug\net6.0\ref\Proyecto3-Descubrimiento-Split-Join.dll
