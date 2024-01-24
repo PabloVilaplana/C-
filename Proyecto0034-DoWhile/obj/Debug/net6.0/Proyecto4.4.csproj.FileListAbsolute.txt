@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Proyecto5\Proyecto7 Do-While\Proyecto4.4\bin\Debug\net6.0\Proyecto4.4.exe
+C:\Programacion\C#\Microsoft\Proyecto5\Proyecto7 Do-While\Proyecto4.4\bin\Debug\net6.0\Proyecto4.4.deps.json
+C:\Programacion\C#\Microsoft\Proyecto5\Proyecto7 Do-While\Proyecto4.4\bin\Debug\net6.0\Proyecto4.4.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Proyecto5\Proyecto7 Do-While\Proyecto4.4\bin\Debug\net6.0\Proyecto4.4.dll
+C:\Programacion\C#\Microsoft\Proyecto5\Proyecto7 Do-While\Proyecto4.4\bin\Debug\net6.0\Proyecto4.4.pdb
+C:\Programacion\C#\Microsoft\Proyecto5\Proyecto7 Do-While\Proyecto4.4\obj\Debug\net6.0\Proyecto4.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Proyecto5\Proyecto7 Do-While\Proyecto4.4\obj\Debug\net6.0\Proyecto4.4.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Proyecto5\Proyecto7 Do-While\Proyecto4.4\obj\Debug\net6.0\Proyecto4.4.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Proyecto5\Proyecto7 Do-While\Proyecto4.4\obj\Debug\net6.0\Proyecto4.4.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Proyecto5\Proyecto7 Do-While\Proyecto4.4\obj\Debug\net6.0\Proyecto4.4.dll
+C:\Programacion\C#\Microsoft\Proyecto5\Proyecto7 Do-While\Proyecto4.4\obj\Debug\net6.0\refint\Proyecto4.4.dll
+C:\Programacion\C#\Microsoft\Proyecto5\Proyecto7 Do-While\Proyecto4.4\obj\Debug\net6.0\Proyecto4.4.pdb
+C:\Programacion\C#\Microsoft\Proyecto5\Proyecto7 Do-While\Proyecto4.4\obj\Debug\net6.0\Proyecto4.4.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Proyecto5\Proyecto7 Do-While\Proyecto4.4\obj\Debug\net6.0\ref\Proyecto4.4.dll
