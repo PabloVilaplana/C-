@@ -1,0 +1,14 @@
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.2\Proyecto2-Depuracion\bin\Debug\net6.0\Proyecto2-Depuracion.exe
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.2\Proyecto2-Depuracion\bin\Debug\net6.0\Proyecto2-Depuracion.deps.json
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.2\Proyecto2-Depuracion\bin\Debug\net6.0\Proyecto2-Depuracion.runtimeconfig.json
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.2\Proyecto2-Depuracion\bin\Debug\net6.0\Proyecto2-Depuracion.dll
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.2\Proyecto2-Depuracion\bin\Debug\net6.0\Proyecto2-Depuracion.pdb
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.2\Proyecto2-Depuracion\obj\Debug\net6.0\Proyecto2-Depuracion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.2\Proyecto2-Depuracion\obj\Debug\net6.0\Proyecto2-Depuracion.AssemblyInfoInputs.cache
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.2\Proyecto2-Depuracion\obj\Debug\net6.0\Proyecto2-Depuracion.AssemblyInfo.cs
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.2\Proyecto2-Depuracion\obj\Debug\net6.0\Proyecto2-Depuracion.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.2\Proyecto2-Depuracion\obj\Debug\net6.0\Proyecto2-Depuracion.dll
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.2\Proyecto2-Depuracion\obj\Debug\net6.0\refint\Proyecto2-Depuracion.dll
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.2\Proyecto2-Depuracion\obj\Debug\net6.0\Proyecto2-Depuracion.pdb
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.2\Proyecto2-Depuracion\obj\Debug\net6.0\Proyecto2-Depuracion.genruntimeconfig.cache
+C:\Programacion\C#\Microsoft\Seccion6\Seccion6.2\Proyecto2-Depuracion\obj\Debug\net6.0\ref\Proyecto2-Depuracion.dll
