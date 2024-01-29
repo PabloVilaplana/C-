@@ -1,0 +1,14 @@
+C:\Programacion\C#\PildorasInformaticas\ProyectoPractico1\EjercicioPractico\bin\Debug\net6.0\EjercicioPractico.exe
+C:\Programacion\C#\PildorasInformaticas\ProyectoPractico1\EjercicioPractico\bin\Debug\net6.0\EjercicioPractico.deps.json
+C:\Programacion\C#\PildorasInformaticas\ProyectoPractico1\EjercicioPractico\bin\Debug\net6.0\EjercicioPractico.runtimeconfig.json
+C:\Programacion\C#\PildorasInformaticas\ProyectoPractico1\EjercicioPractico\bin\Debug\net6.0\EjercicioPractico.dll
+C:\Programacion\C#\PildorasInformaticas\ProyectoPractico1\EjercicioPractico\bin\Debug\net6.0\EjercicioPractico.pdb
+C:\Programacion\C#\PildorasInformaticas\ProyectoPractico1\EjercicioPractico\obj\Debug\net6.0\EjercicioPractico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\PildorasInformaticas\ProyectoPractico1\EjercicioPractico\obj\Debug\net6.0\EjercicioPractico.AssemblyInfoInputs.cache
+C:\Programacion\C#\PildorasInformaticas\ProyectoPractico1\EjercicioPractico\obj\Debug\net6.0\EjercicioPractico.AssemblyInfo.cs
+C:\Programacion\C#\PildorasInformaticas\ProyectoPractico1\EjercicioPractico\obj\Debug\net6.0\EjercicioPractico.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\PildorasInformaticas\ProyectoPractico1\EjercicioPractico\obj\Debug\net6.0\EjercicioPractico.dll
+C:\Programacion\C#\PildorasInformaticas\ProyectoPractico1\EjercicioPractico\obj\Debug\net6.0\refint\EjercicioPractico.dll
+C:\Programacion\C#\PildorasInformaticas\ProyectoPractico1\EjercicioPractico\obj\Debug\net6.0\EjercicioPractico.pdb
+C:\Programacion\C#\PildorasInformaticas\ProyectoPractico1\EjercicioPractico\obj\Debug\net6.0\EjercicioPractico.genruntimeconfig.cache
+C:\Programacion\C#\PildorasInformaticas\ProyectoPractico1\EjercicioPractico\obj\Debug\net6.0\ref\EjercicioPractico.dll
