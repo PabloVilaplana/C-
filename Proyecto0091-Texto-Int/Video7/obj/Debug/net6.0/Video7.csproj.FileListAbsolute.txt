@@ -1,0 +1,14 @@
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video7\Video7\bin\Debug\net6.0\Video7.exe
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video7\Video7\bin\Debug\net6.0\Video7.deps.json
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video7\Video7\bin\Debug\net6.0\Video7.runtimeconfig.json
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video7\Video7\bin\Debug\net6.0\Video7.dll
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video7\Video7\bin\Debug\net6.0\Video7.pdb
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video7\Video7\obj\Debug\net6.0\Video7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video7\Video7\obj\Debug\net6.0\Video7.AssemblyInfoInputs.cache
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video7\Video7\obj\Debug\net6.0\Video7.AssemblyInfo.cs
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video7\Video7\obj\Debug\net6.0\Video7.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video7\Video7\obj\Debug\net6.0\Video7.dll
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video7\Video7\obj\Debug\net6.0\refint\Video7.dll
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video7\Video7\obj\Debug\net6.0\Video7.pdb
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video7\Video7\obj\Debug\net6.0\Video7.genruntimeconfig.cache
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video7\Video7\obj\Debug\net6.0\ref\Video7.dll
