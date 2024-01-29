@@ -1,0 +1,14 @@
+C:\Programacion\C#\PildorasInformaticas\Video063 Coleccion\Colecciones\bin\Debug\net6.0\Colecciones.exe
+C:\Programacion\C#\PildorasInformaticas\Video063 Coleccion\Colecciones\bin\Debug\net6.0\Colecciones.deps.json
+C:\Programacion\C#\PildorasInformaticas\Video063 Coleccion\Colecciones\bin\Debug\net6.0\Colecciones.runtimeconfig.json
+C:\Programacion\C#\PildorasInformaticas\Video063 Coleccion\Colecciones\bin\Debug\net6.0\Colecciones.dll
+C:\Programacion\C#\PildorasInformaticas\Video063 Coleccion\Colecciones\bin\Debug\net6.0\Colecciones.pdb
+C:\Programacion\C#\PildorasInformaticas\Video063 Coleccion\Colecciones\obj\Debug\net6.0\Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\PildorasInformaticas\Video063 Coleccion\Colecciones\obj\Debug\net6.0\Colecciones.AssemblyInfoInputs.cache
+C:\Programacion\C#\PildorasInformaticas\Video063 Coleccion\Colecciones\obj\Debug\net6.0\Colecciones.AssemblyInfo.cs
+C:\Programacion\C#\PildorasInformaticas\Video063 Coleccion\Colecciones\obj\Debug\net6.0\Colecciones.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\PildorasInformaticas\Video063 Coleccion\Colecciones\obj\Debug\net6.0\Colecciones.dll
+C:\Programacion\C#\PildorasInformaticas\Video063 Coleccion\Colecciones\obj\Debug\net6.0\refint\Colecciones.dll
+C:\Programacion\C#\PildorasInformaticas\Video063 Coleccion\Colecciones\obj\Debug\net6.0\Colecciones.pdb
+C:\Programacion\C#\PildorasInformaticas\Video063 Coleccion\Colecciones\obj\Debug\net6.0\Colecciones.genruntimeconfig.cache
+C:\Programacion\C#\PildorasInformaticas\Video063 Coleccion\Colecciones\obj\Debug\net6.0\ref\Colecciones.dll
