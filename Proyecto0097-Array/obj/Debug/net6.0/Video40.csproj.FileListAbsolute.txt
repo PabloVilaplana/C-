@@ -1,0 +1,14 @@
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video40\bin\Debug\net6.0\Video40.exe
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video40\bin\Debug\net6.0\Video40.deps.json
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video40\bin\Debug\net6.0\Video40.runtimeconfig.json
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video40\bin\Debug\net6.0\Video40.dll
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video40\bin\Debug\net6.0\Video40.pdb
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video40\obj\Debug\net6.0\Video40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video40\obj\Debug\net6.0\Video40.AssemblyInfoInputs.cache
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video40\obj\Debug\net6.0\Video40.AssemblyInfo.cs
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video40\obj\Debug\net6.0\Video40.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video40\obj\Debug\net6.0\Video40.dll
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video40\obj\Debug\net6.0\refint\Video40.dll
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video40\obj\Debug\net6.0\Video40.pdb
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video40\obj\Debug\net6.0\Video40.genruntimeconfig.cache
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video40\obj\Debug\net6.0\ref\Video40.dll

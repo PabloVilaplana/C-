@@ -1,0 +1,14 @@
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video28\obj\Debug\net6.0\Video28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video28\obj\Debug\net6.0\Video28.AssemblyInfoInputs.cache
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video28\obj\Debug\net6.0\Video28.AssemblyInfo.cs
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video28\obj\Debug\net6.0\Video28.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video28\bin\Debug\net6.0\Video28.exe
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video28\bin\Debug\net6.0\Video28.deps.json
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video28\bin\Debug\net6.0\Video28.runtimeconfig.json
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video28\bin\Debug\net6.0\Video28.dll
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video28\bin\Debug\net6.0\Video28.pdb
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video28\obj\Debug\net6.0\Video28.dll
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video28\obj\Debug\net6.0\refint\Video28.dll
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video28\obj\Debug\net6.0\Video28.pdb
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video28\obj\Debug\net6.0\Video28.genruntimeconfig.cache
+C:\Programacion\C#\PildorasInformaticas\Proyecto1\Video28\obj\Debug\net6.0\ref\Video28.dll
