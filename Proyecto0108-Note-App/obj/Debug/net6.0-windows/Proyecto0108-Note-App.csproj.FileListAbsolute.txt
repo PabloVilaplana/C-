@@ -1,0 +1,16 @@
+C:\Programacion\C#\Practicando\Proyecto0108-Note-App\bin\Debug\net6.0-windows\Proyecto0108-Note-App.exe
+C:\Programacion\C#\Practicando\Proyecto0108-Note-App\bin\Debug\net6.0-windows\Proyecto0108-Note-App.deps.json
+C:\Programacion\C#\Practicando\Proyecto0108-Note-App\bin\Debug\net6.0-windows\Proyecto0108-Note-App.runtimeconfig.json
+C:\Programacion\C#\Practicando\Proyecto0108-Note-App\bin\Debug\net6.0-windows\Proyecto0108-Note-App.dll
+C:\Programacion\C#\Practicando\Proyecto0108-Note-App\bin\Debug\net6.0-windows\Proyecto0108-Note-App.pdb
+C:\Programacion\C#\Practicando\Proyecto0108-Note-App\obj\Debug\net6.0-windows\Proyecto0108_Note_App.Form1.resources
+C:\Programacion\C#\Practicando\Proyecto0108-Note-App\obj\Debug\net6.0-windows\Proyecto0108-Note-App.csproj.GenerateResource.cache
+C:\Programacion\C#\Practicando\Proyecto0108-Note-App\obj\Debug\net6.0-windows\Proyecto0108-Note-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Practicando\Proyecto0108-Note-App\obj\Debug\net6.0-windows\Proyecto0108-Note-App.AssemblyInfoInputs.cache
+C:\Programacion\C#\Practicando\Proyecto0108-Note-App\obj\Debug\net6.0-windows\Proyecto0108-Note-App.AssemblyInfo.cs
+C:\Programacion\C#\Practicando\Proyecto0108-Note-App\obj\Debug\net6.0-windows\Proyecto0108-Note-App.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Practicando\Proyecto0108-Note-App\obj\Debug\net6.0-windows\Proyecto0108-Note-App.dll
+C:\Programacion\C#\Practicando\Proyecto0108-Note-App\obj\Debug\net6.0-windows\refint\Proyecto0108-Note-App.dll
+C:\Programacion\C#\Practicando\Proyecto0108-Note-App\obj\Debug\net6.0-windows\Proyecto0108-Note-App.pdb
+C:\Programacion\C#\Practicando\Proyecto0108-Note-App\obj\Debug\net6.0-windows\Proyecto0108-Note-App.genruntimeconfig.cache
+C:\Programacion\C#\Practicando\Proyecto0108-Note-App\obj\Debug\net6.0-windows\ref\Proyecto0108-Note-App.dll
