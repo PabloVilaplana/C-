@@ -1,0 +1,14 @@
+C:\Programacion\C#\Practicando\Proyecto0107-Number-Guessing\bin\Debug\net6.0\Proyecto0107-Number-Guessing.exe
+C:\Programacion\C#\Practicando\Proyecto0107-Number-Guessing\bin\Debug\net6.0\Proyecto0107-Number-Guessing.deps.json
+C:\Programacion\C#\Practicando\Proyecto0107-Number-Guessing\bin\Debug\net6.0\Proyecto0107-Number-Guessing.runtimeconfig.json
+C:\Programacion\C#\Practicando\Proyecto0107-Number-Guessing\bin\Debug\net6.0\Proyecto0107-Number-Guessing.dll
+C:\Programacion\C#\Practicando\Proyecto0107-Number-Guessing\bin\Debug\net6.0\Proyecto0107-Number-Guessing.pdb
+C:\Programacion\C#\Practicando\Proyecto0107-Number-Guessing\obj\Debug\net6.0\Proyecto0107-Number-Guessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\C#\Practicando\Proyecto0107-Number-Guessing\obj\Debug\net6.0\Proyecto0107-Number-Guessing.AssemblyInfoInputs.cache
+C:\Programacion\C#\Practicando\Proyecto0107-Number-Guessing\obj\Debug\net6.0\Proyecto0107-Number-Guessing.AssemblyInfo.cs
+C:\Programacion\C#\Practicando\Proyecto0107-Number-Guessing\obj\Debug\net6.0\Proyecto0107-Number-Guessing.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Practicando\Proyecto0107-Number-Guessing\obj\Debug\net6.0\Proyecto0107-Number-Guessing.dll
+C:\Programacion\C#\Practicando\Proyecto0107-Number-Guessing\obj\Debug\net6.0\refint\Proyecto0107-Number-Guessing.dll
+C:\Programacion\C#\Practicando\Proyecto0107-Number-Guessing\obj\Debug\net6.0\Proyecto0107-Number-Guessing.pdb
+C:\Programacion\C#\Practicando\Proyecto0107-Number-Guessing\obj\Debug\net6.0\Proyecto0107-Number-Guessing.genruntimeconfig.cache
+C:\Programacion\C#\Practicando\Proyecto0107-Number-Guessing\obj\Debug\net6.0\ref\Proyecto0107-Number-Guessing.dll
